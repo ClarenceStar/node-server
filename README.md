@@ -45,7 +45,7 @@ npm test
 ```
 
 ## Extra Work
-此后台需要配合mysql数据库使用 在自己的数据库中按照如下命令创建一个表
+此后台需要配合mysql数据库使用 在自己的数据库中按照如下命令创建一个表 而后还需要在database的db.json中重新配置一下
 ```sql语句
 
 create table user
